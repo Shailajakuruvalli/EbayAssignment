@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66500" started-at="2020-05-10T15:20:15 CDT" finished-at="2020-05-10T15:21:21 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66500" started-at="2020-05-10T15:20:15 CDT" finished-at="2020-05-10T15:21:21 CDT">
+      <class name="EbayAssignment.VerifyEbayLogo">
+        <test-method status="PASS" signature="verifyLogo()[pri:0, instance:EbayAssignment.VerifyEbayLogo@c0c2f8d]" name="verifyLogo" duration-ms="12354" started-at="2020-05-10T15:21:09 CDT" finished-at="2020-05-10T15:21:21 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+      </class> <!-- EbayAssignment.VerifyEbayLogo -->
+      <class name="EbayAssignment.MaxViewedItemsTest">
+        <test-method status="PASS" signature="testMaxViewedItems()[pri:0, instance:EbayAssignment.MaxViewedItemsTest@4988d8b8]" name="testMaxViewedItems" duration-ms="54097" started-at="2020-05-10T15:20:15 CDT" finished-at="2020-05-10T15:21:09 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMaxViewedItems -->
+      </class> <!-- EbayAssignment.MaxViewedItemsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
